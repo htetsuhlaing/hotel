@@ -82,59 +82,47 @@ Bet: 66th St X 68th St;Chanayetharzan Tsp, Mandalay",
 {
  "id":"14",
  "title":"Tharaba Hotel",
- "address":"Near Tharaba Gate,
-Old Bagan, Nyaung Oo Tsp,
-Bagan, Myanmar",
+ "address":"Near Tharaba Gate, Old Bagan, Nyaung Oo Tsp,Bagan, Myanmar",
  "phone":"06160037 , 06160042 , 06160043"
  },
 {
  "id":"15",
  "title":"Bagan Hotel",
- "address":"Back of Kadotpalin Bagoda,Co-operative,
-Thante St, Bagan, Myanmar",
+ "address":"Back of Kadotpalin Bagoda,Co-operative, Thante St, Bagan, Myanmar",
  "phone":" 06160032  ,  06160316 , 06760317"
  },
 {
  "id":"16",
  "title":"Bagan Thande Hotel",
- "address":"Old Bagan,
-Bagan, Myanmar",
+ "address":"Old Bagan, Bagan, Myanmar",
  "phone":"06160025 , 06160031 , 06160964"
  },
 {
  "id":"17",
  "title":"Thingaha Hotel",
- "address":"Hotel Zone,
- DatKhiNaThiri Tsp,
-Nay Pyi Taw, Myanmar",
+ "address":"Hotel Zone, DatKhiNaThiri Tsp, Nay Pyi Taw, Myanmar",
  "phone":"067-414123-34"
  },
 {
  "id":"18",
  "title":"Royal Nay Pyi Taw Hotel ",
- "address":"Hotel Zone,
-DatKhiNaThiri Tsp,
-Nay Pyi Taw, Myanmar",
+ "address":"Hotel Zone, DatKhiNaThiri Tsp,Nay Pyi Taw, Myanmar",
  "phone":"067-414960 , 067-414961 , 067-414962"
  },
 {
  "id":"19",
  "title":"Sky Palace Hotel",
- "address":"Hotel Zone,
- DatKhiNaThiri Tsp,
-Nay Pyi Taw, Myanmar",
+ "address":"Hotel Zone, DatKhiNaThiri Tsp, Nay Pyi Taw, Myanmar",
  "phone":"067-422121"
  },
 {
  "id":"20",
  "title":"Amara Hotel",
- "address":"Hotel Zone,
- DatKhiNaThiri Tsp,
-Nay Pyi Taw, Myanmar",
+ "address":"Hotel Zone, DatKhiNaThiri Tsp, Nay Pyi Taw, Myanmar",
  "phone":"067-422201-14 , 067-421676-79"
- }
+   }
  ]
- }
+  }
  
   
   
