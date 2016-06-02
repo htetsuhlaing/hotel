@@ -1,0 +1,140 @@
+{
+ "hotel":[
+ {
+  "id":"1",
+  "title":"Central Hotel",
+  "address":"335-337 Bogyoke Aung San St.,Pabedan Tsp, Yangon",
+  "phone":"01241001 , 01241020"
+  },
+{
+ "id":"2",
+ "title":"Mya Yeik Nyo Hotel",
+ "address":"20, Pale Rd., Bahan Tsp, Yangon",
+ "phone":"01548310 , 01548317"
+ },
+{
+ "id":"3",
+ "title":"Hotel Yangon",
+ "address":"(91/93), Myaytine Qr, Mayangone(Thamine) Tsp,Yangon",
+ "phone":"01667708 , 01667688"
+ },
+{
+ "id":"4",
+ "title":Liberty Hotel",
+ "address":"343, Pyay St., Sanchaung Tsp, Yangon",
+ "phone":"01530050 , 525974"
+ },
+{
+ "id":"5",
+ "title":"Shwe Gone Daing Hotel",
+ "address":"273/A, Middle  Shwe Gon Daing Rd, Bahan  Tsp, Yangon",
+ "phone":"01376555 , 01373517"
+ },
+{
+ "id":"6",
+ "title":"Mandalay Swan Hotel",
+ "address":"(44-B), 26th St:, 
+Bet: 66th St X 68th St;Chanayetharzan Tsp, Mandalay",
+ "phone":"0231619 , 0231591"
+ },
+{
+ "id":"7",
+ "title":"Hotel Mandalay",
+ "address":"Block(652),78th St, Bet: 37thx38th St, Mandalay",
+ "phone":"0238207"
+ },
+{
+ "id":"8",
+ "title":"Myit Phyar Ayar Hotel",
+ "address":"(556),80thSt: Bet: of 33rd St; x 34th St; Aungnanyeiktha Qr, Mandalay",
+ "phone":"0235210 , 0235646"
+ },
+{
+ "id":"9",
+ "title":"Treasure Hotel",
+ "address":"(46), Aungmyaytharzan Tsp, Mandalay",
+ "phone":"0235058 , 0235929"
+ },
+{
+ "id":"10",
+ "title":"Mandalay Royal Hotel",
+ "address":"(5), 71st St.; 29th x 30th St, Mandalay",
+ "phone":"0223702 , 0236746 , 0238102"
+ },
+{
+ "id":"11",
+ "title":"Hotel Pyin Oo Lwin",
+ "address":"No(65/B),Yatquet Kyi(6), Pyin Oo Lwin",
+ "phone":"08521226 , 08528215"
+ },
+{
+ "id":"12",
+ "title":"Thiri Myanmar Hotel",
+ "address":"(132), 38-B, (6) Qr.Ahnawrahta Qr, Pyin Oo Lwin",
+ "phone":"08522483 , 08521081"
+ },
+{
+ "id":"13",
+ "title":"Hotel Aster",
+ "address":"(47/48),Nadawun Qr, Pyin Oo Lwin",
+ "phone":"08528282"
+ },
+{
+ "id":"14",
+ "title":"Tharaba Hotel",
+ "address":"Near Tharaba Gate,
+Old Bagan, Nyaung Oo Tsp,
+Bagan, Myanmar",
+ "phone":"06160037 , 06160042 , 06160043"
+ },
+{
+ "id":"15",
+ "title":"Bagan Hotel",
+ "address":"Back of Kadotpalin Bagoda,Co-operative,
+Thante St, Bagan, Myanmar",
+ "phone":" 06160032  ,  06160316 , 06760317"
+ },
+{
+ "id":"16",
+ "title":"Bagan Thande Hotel",
+ "address":"Old Bagan,
+Bagan, Myanmar",
+ "phone":"06160025 , 06160031 , 06160964"
+ },
+{
+ "id":"17",
+ "title":"Thingaha Hotel",
+ "address":"Hotel Zone,
+ DatKhiNaThiri Tsp,
+Nay Pyi Taw, Myanmar",
+ "phone":"067-414123-34"
+ },
+{
+ "id":"18",
+ "title":"Royal Nay Pyi Taw Hotel ",
+ "address":"Hotel Zone,
+DatKhiNaThiri Tsp,
+Nay Pyi Taw, Myanmar",
+ "phone":"067-414960 , 067-414961 , 067-414962"
+ },
+{
+ "id":"19",
+ "title":"Sky Palace Hotel",
+ "address":"Hotel Zone,
+ DatKhiNaThiri Tsp,
+Nay Pyi Taw, Myanmar",
+ "phone":"067-422121"
+ },
+{
+ "id":"20",
+ "title":"Amara Hotel",
+ "address":"Hotel Zone,
+ DatKhiNaThiri Tsp,
+Nay Pyi Taw, Myanmar",
+ "phone":"067-422201-14 , 067-421676-79"
+ }
+ ]
+ }
+ 
+  
+  
